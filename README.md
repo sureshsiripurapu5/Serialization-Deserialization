@@ -14,8 +14,8 @@
 - To solve this type of problems, java came with the solution. Easily mark the sensitive field with the transient keyword.
 - If we mark the field with the transient keyword the respective fields does not serializes and deserializes.
 
-- Example:
-    -int bankId;
+- Example: <br>
+    int bankId;
     -transient String password;
 
 
