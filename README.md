@@ -15,8 +15,8 @@
 - If we mark the field with the transient keyword the respective fields does not serializes and deserializes.
 
 - Example: <br>
-    int bankId;
-    -transient String password;
+    int bankId; <br>
+    transient String password;
 
 
 
